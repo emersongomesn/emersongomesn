@@ -1,8 +1,8 @@
-Ola, eu sou o Emerson! 👋
+Hi, I'm Emerson! 👋
 
-Estudante de Desenvolvimento Full Stack.
+Full Stack Development Student.
 
-Prezo Sempre pelo trabalho em equipe, sempre buscando conhecimento e disposto a aprender.
+I always value teamwork, always seeking knowledge and willing to learn.
 
 <div align="center">
   <a href="https://github.com/emerson100koko">
